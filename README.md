@@ -53,10 +53,19 @@ High Level Analyzer for Saleae Logic 2.x software. Decodes Spektrum Programmer a
 
 ![image](https://github.com/ajcasagrande/spektrum-bootloader-and-sg3-decoder/blob/main/docs/images/img1.png?raw=true)
 
-### [Collect All Pets Calculator + Metallic Optimizer](https://collect-all-pets.github.io/)
-Really neat probability calculator I created for a Video Game.
+### Collect All Pets Calculator + Metallic Optimizer
+_**[Live Demo](https://collect-all-pets.github.io/)**_
+
+Really neat probability calculator I created for a Video Game. [GitHub Source Code](https://github.com/collect-all-pets/collect-all-pets.github.io)
 
 ## Blog Posts
+
+### 📫 Get in Touch
+- GitHub: [@ajcasagrande](https://github.com/ajcasagrande)
+- LinkedIn: [linkedin.com/in/anthony-casagrande](https://www.linkedin.com/in/anthony-casagrande/)
+
+---
+*"Building the future of computer vision and AI, one commit at a time."*
 
 <!--
 **ajcasagrande/ajcasagrande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
