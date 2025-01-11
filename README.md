@@ -46,6 +46,17 @@ Deployment files for running EdgeX Kamakura with the onvif device service, as we
 ### ESP-IDF Contributions
 [Major performance improvements to idf_size.py (IDFGH-2404) #4518](https://github.com/espressif/esp-idf/pull/4518)
 
+### ✨ Highlights ✨
+Here are a few of my collegues presenting on our team's projects
+
+**Rapidly Scaling Actionable Insights at the Point of Interaction**
+<a href="https://youtu.be/ub3p9RyMm3Q?feature=shared"><img src="https://github.com/user-attachments/assets/354f0c01-b508-43b0-8cc2-fb2d0c32125e" style="width: 75%"/></a>
+
+**Computer Vision to Secure Your Surroundings with AI/ML Solution Built Using Open Source Tools at the Edge** _**[PDF](https://static.sched.com/hosted_files/ossna2022/ff/OSS_ComputerVision_to_Secure%20Surroundings_at_Edge.pdf)**_
+<a href="https://ossna2022.sched.com/event/11Nhu/computer-vision-to-secure-your-surroundings-with-aiml-solution-built-using-open-source-tools-at-the-edge-samantha-coyle-neethu-elizabeth-simon-intel-corporation"><img src="https://github.com/user-attachments/assets/82c56980-2cc0-4e92-be60-be15948c2e3a" style="width: 75%" /></a>
+
+**GopherCon 2022: A Journey Through Integration Testing with Go - What Could Go Wrong?**
+<a href="https://youtu.be/o_B4HFfeKEs?feature=shared"><img src="https://github.com/user-attachments/assets/6173017c-9dec-4cfc-b647-6ffc0a59cb43" style="width: 75%"/></a>
 
 ## ✨ Nerd Stuff 🤓
 ### [Spektrum Bootloader and SG3 Decoder](https://github.com/ajcasagrande/spektrum-bootloader-and-sg3-decoder)
