@@ -4,34 +4,48 @@ My name is Anthony Casagrande and I am a Staff Software Engineer currently looki
 
 # ✨ Open Source Projects
 
-### Recipient of the 2022 EdgeX Foundry Innovation Award!
+## Recipient of the 2022 EdgeX Foundry Innovation Award!
 In 2022, I received the prestigious EdgeX Foundry Innovation Award, recognizing my significant contributions to one of the largest open-source edge computing projects. My work included developing innovative device and application services, addressing critical bugs, and proposing numerous feature improvements based on real world usage, demonstrating a strong commitment to the EdgeX community and advancing the platform's capabilities for real-world use cases. [Article Link](https://lfedge.org/congratulations-to-the-recipients-of-the-2022-edgex-awards/)
 
 <img src="https://github.com/user-attachments/assets/7250dc5d-f0e9-48b2-aba2-0e9d83c1e4a0" style="width: 25%"/>
 
+
+## RC Race Vision
+Real-time trajectory tracking of RC Cars on a race-track. Utilizes background object detection for global path stabilization despite the camera being in motion.  
+[GitHub Repo](https://github.com/ajcasagrande/rc-race-vision) | [Roboflow Universe](https://universe.roboflow.com/birdrc/rc-race-vision) | [Blog Post](https://ajcasagrande.medium.com/your-next-pit-crew-enhancing-rc-racing-with-computer-vision-bee25c494c69)
+
+https://github.com/user-attachments/assets/3e4b13fb-ba4a-490b-b6f0-dbb220c004b7
+
 ## Open Retail Reference Architecture (ORRA)
-### [EdgeX Foundry Kamakura w/ Onvif Device Service + Edge Video Analytics + Camera Management Example App](https://github.com/edgexfoundry-holding/orra)
-Deployment files for running EdgeX Kamakura with the onvif device service, as well as Intel's Edge Video Analytics on the Open Horizon platform.
+### EdgeX Foundry + Edge Video Analytics + Camera Management
+Deployment files for running EdgeX Kamakura with the ONVIF device service, as well as Intel's Edge Video Analytics on the Open Horizon platform.
 
-### Smart City Situational Awareness - Reference Implementation Demo
-[YouTube Demo](https://youtu.be/kVcb_R-MdHo?feature=shared)
+[GitHub Repo](https://github.com/edgexfoundry-holding/orra/tree/main/demos/OH-EXF-Kamakura)
 
-### EdgeX Foundry
-- [EdgeX Foundry](https://github.com/edgexfoundry/edgex-go)
+## Smart City Situational Awareness - Reference Implementation
+Computer Vision to Secure Your Surroundings with AI/ML Solution Built Using Open Source Tools at the Edge
+
+[YouTube Customer Demo](https://youtu.be/kVcb_R-MdHo?feature=shared) | [Open Source Summit 2022 Presentation](https://ossna2022.sched.com/event/11Nhu/computer-vision-to-secure-your-surroundings-with-aiml-solution-built-using-open-source-tools-at-the-edge-samantha-coyle-neethu-elizabeth-simon-intel-corporation)
+
+![image](https://github.com/user-attachments/assets/717cdb0e-a386-4a16-bac8-21525d300fa0)
+
+
+## EdgeX Foundry
+- [EdgeX Foundry - Core Services](https://github.com/edgexfoundry/edgex-go)
 - [USB Camera Device Service](https://github.com/edgexfoundry/device-usb-camera)
-- [RFID LLRP Inventory Application Service](https://github.com/edgexfoundry/app-rfid-llrp-inventory)
+- [Go ONVIF library](https://github.com/IOTechSystems/onvif)
+- [Go Device Service SDK](https://github.com/edgexfoundry/device-sdk-go)
+- [EdgeX UI](https://github.com/edgexfoundry/edgex-ui-go)
+- [EdgeX Compose](https://github.com/edgexfoundry/edgex-compose)
+    - EdgeX Foundry Docker Compose release compose files and tools for building EdgeX compose files
 - [RFID LLRP Device Service](https://github.com/edgexfoundry/device-rfid-llrp-go)
+- [RFID LLRP Inventory Application Service](https://github.com/edgexfoundry/app-rfid-llrp-inventory)
 - [ONVIF Camera Device Service](https://github.com/edgexfoundry/device-onvif-camera)
 - [Go Device Service SDK](https://github.com/edgexfoundry/device-sdk-go)
 - [Official EdgeX Foundry Examples](https://github.com/edgexfoundry/edgex-examples)
   - [Camera Management Example App Service](https://github.com/edgexfoundry/edgex-examples/tree/v3.1.0/application-services/custom/camera-management)
   - [Documentation](https://docs.edgexfoundry.org/3.1/examples/app-service-examples/camera-management/Ch-CameraManagement/)
-- [Go ONVIF library](https://github.com/IOTechSystems/onvif)
-- https://github.com/edgexfoundry/device-sdk-go
-- https://github.com/edgexfoundry/edgex-ui-go
-- https://github.com/edgexfoundry/edgex-compose
-    - EdgeX Foundry Docker Compose release compose files and tools for building EdgeX compose files
-- https://github.com/edgexfoundry/go-mod-bootstrap
+- [Go Bootstrap Module](https://github.com/edgexfoundry/go-mod-bootstrap)
   - Common bootstrap and dependency injection container originally implemented in the edgex-go repository and extracted here for reuse 
 
 ## Intel
@@ -43,10 +57,10 @@ Deployment files for running EdgeX Kamakura with the onvif device service, as we
 - [Inventory Suite - Loss Prevention Service](https://github.com/intel/rsp-sw-toolkit-im-suite-loss-prevention-service)
 - [Intel® Inventory Suite alert-service](https://github.com/intel/rsp-sw-toolkit-im-suite-alert-service)
 
-### ESP-IDF Contributions
+## ESP-IDF Contributions
 [Major performance improvements to idf_size.py (IDFGH-2404) #4518](https://github.com/espressif/esp-idf/pull/4518)
 
-### ✨ Highlights ✨
+## ✨ Highlights ✨
 Here are a few of my collegues presenting on our team's projects
 
 **Rapidly Scaling Actionable Insights at the Point of Interaction**
