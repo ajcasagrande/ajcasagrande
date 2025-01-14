@@ -11,16 +11,23 @@ In 2022, I received the prestigious EdgeX Foundry Innovation Award, recognizing 
 
 
 ## RC Race Vision
-Real-time trajectory tracking of RC Cars on a race-track. Utilizes background object detection for global path stabilization despite the camera being in motion.  
+Real-time trajectory tracking of RC Cars on a race-track using YOLOv11 + Roboflow Supervision. Utilizes background object detection for global path stabilization despite the camera being in motion.  
 [GitHub Repo](https://github.com/ajcasagrande/rc-race-vision) | [Roboflow Universe](https://universe.roboflow.com/birdrc/rc-race-vision) | [Blog Post](https://ajcasagrande.medium.com/your-next-pit-crew-enhancing-rc-racing-with-computer-vision-bee25c494c69)
 
 https://github.com/user-attachments/assets/3e4b13fb-ba4a-490b-b6f0-dbb220c004b7
+
+<hr/>
 
 ## Open Retail Reference Architecture (ORRA)
 ### EdgeX Foundry + Edge Video Analytics + Camera Management
 Deployment files for running EdgeX Kamakura with the ONVIF device service, as well as Intel's Edge Video Analytics on the Open Horizon platform.
 
 [GitHub Repo](https://github.com/edgexfoundry-holding/orra/tree/main/demos/OH-EXF-Kamakura)
+
+![image](https://github.com/user-attachments/assets/1125fb25-f985-452e-94f2-497be4765a2f)
+
+
+<hr/>
 
 ## Smart City Situational Awareness - Reference Implementation
 Computer Vision to Secure Your Surroundings with AI/ML Solution Built Using Open Source Tools at the Edge
@@ -51,6 +58,10 @@ Computer Vision to Secure Your Surroundings with AI/ML Solution Built Using Open
 ## Intel
 - [Intel® RFID Sensor Platform (RSP) - Inventory Suite](https://github.com/intel/rsp-sw-toolkit-im-suite-inventory-suite)
   The Intel® RSP Inventory Suite is open source reference IoT software that enables you to gather data from multiple sensors and combine with your RFID data via edge analytics.
+
+![image](https://github.com/user-attachments/assets/12349165-eef1-4ce4-8c74-a7e89e1ed773)
+
+  
 - [Intel® Inventory Suite inventory-service](https://github.com/intel/rsp-sw-toolkit-im-suite-inventory-service)
 - [RSP MQTT Device Service](https://github.com/intel/rsp-sw-toolkit-im-suite-mqtt-device-service)
 - [Inventory Suite Demo UI](https://github.com/intel/rsp-sw-toolkit-im-suite-demo-ui/tree/7208bcd65e57faccf523c06a4d6de41702da21c5)
