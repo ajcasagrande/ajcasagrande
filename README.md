@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Anthony Casagrande and I am a Staff Software Engineer currently looking for opportunities to further the fields of AI/ML and Computer Vision in the Open Source ecosystem.
+My name is Anthony Casagrande and I am a Staff Software Engineer currently looking for opportunities to further the fields of AI/ML and Computer Vision, IoT and Edge, and Cloud-Native infrastructure.
 
 # ✨ Open Source Projects
 
@@ -96,9 +96,9 @@ Really neat probability calculator I created for a Video Game.
 
 **[GitHub Source Code](https://github.com/collect-all-pets/collect-all-pets.github.io)** | **[Live Demo](https://collect-all-pets.github.io/)**
 
-![Screenshot From 2025-01-15 16-32-51](https://github.com/user-attachments/assets/f7d852b5-ca57-440f-8db1-5bdd4f63e874)
+![Screenshot From 2025-01-15 16-37-22](https://github.com/user-attachments/assets/2af8acde-e5af-4c44-a469-8b4d67bd7213)
 
-![Screenshot From 2025-01-15 16-30-46](https://github.com/user-attachments/assets/d42ea53d-9484-468d-8c8e-20194ba60d4f)
+![Screenshot From 2025-01-15 16-32-51](https://github.com/user-attachments/assets/f7d852b5-ca57-440f-8db1-5bdd4f63e874)
 
 ## Blog Posts
 
