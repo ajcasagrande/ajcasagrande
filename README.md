@@ -92,7 +92,7 @@ High Level Analyzer for Saleae Logic 2.x software. Decodes Spektrum Programmer a
 <hr/>
 
 ### Collect All Pets Calculator + Metallic Optimizer
-Really neat probability calculator I created for a Video Game. 
+Really neat probability calculator I created for a video game back in 2022. Built from scratch using AngularJS, it feature real-time updates, local-storage, live chart vizualizations, and more!
 
 **[GitHub Source Code](https://github.com/collect-all-pets/collect-all-pets.github.io)** | **[Live Demo](https://collect-all-pets.github.io/)**
 
