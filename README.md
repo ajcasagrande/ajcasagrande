@@ -11,7 +11,7 @@ In 2022, I received the prestigious EdgeX Foundry Innovation Award, recognizing 
 
 
 ## RC Race Vision
-Real-time trajectory tracking of RC Cars on a race-track using YOLOv11 + Roboflow Supervision. Utilizes background object detection for global path stabilization despite the camera being in motion.  
+Trajectory tracking of RC Cars on a race-track using YOLOv11 + Roboflow Supervision. Utilizes background object detection for global path stabilization despite the camera being in motion.  
 [GitHub Repo](https://github.com/ajcasagrande/rc-race-vision) | [Roboflow Universe](https://universe.roboflow.com/birdrc/rc-race-vision) | [Blog Post](https://ajcasagrande.medium.com/your-next-pit-crew-enhancing-rc-racing-with-computer-vision-bee25c494c69)
 
 https://github.com/user-attachments/assets/3e4b13fb-ba4a-490b-b6f0-dbb220c004b7
