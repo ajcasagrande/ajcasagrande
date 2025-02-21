@@ -5,36 +5,35 @@ My name is Anthony Casagrande and I am a Staff Software Engineer currently looki
 <!--
 ## Skills
 
-![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=ai&logoColor=white)
-![openVINO](https://img.shields.io/badge/openVINO-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-005571?style=for-the-badge&logo=opencv&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=ai&logoColor=white&color=black)
+![openVINO](https://img.shields.io/badge/openVINO-0071C5?style=for-the-badge&logo=intel&logoColor=white&color=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-005571?style=for-the-badge&logo=opencv&logoColor=white&color=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black&color=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white&color=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&color=black)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white&color=black)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white&color=black)
+![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c&color=black)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white&color=black)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&color=black)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white&color=black)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=black)
 -->
 ## Programming Languages
-**Python** | **Go** | **TypeScript** | **C/C++** | **C#** | **JavaScript** | **Java** | **Bash** | **Makefile** | **CMake**
 
-<!--
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
--->
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=white&color=black)
+![Golang](https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=Go&logoColor=white&color=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white&color=black)
+![Javascript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=white&color=black)
+![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c&logoColor=white&color=black)
+![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=black)
+![C#](https://img.shields.io/badge/-C%20Sharp-black?style=for-the-badge&logo=sharp&logoColor=white&color=black)
+![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk&logoColor=white&color=black)
+![Bash](https://img.shields.io/badge/-Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white&color=black)
+![Makefile](https://img.shields.io/badge/-Makefile-black?style=for-the-badge&logo=make&logoColor=white&color=black)
 
 <hr/>
-
+https://img.shields.io/badge/-Bash-black
 # ✨ Open Source Projects
 
 ## Recipient of the 2022 EdgeX Foundry Innovation Award!
