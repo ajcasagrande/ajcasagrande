@@ -33,6 +33,8 @@ My name is Anthony Casagrande and I am a Staff Software Engineer currently looki
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 -->
 
+<hr/>
+
 # ✨ Open Source Projects
 
 ## Recipient of the 2022 EdgeX Foundry Innovation Award!
