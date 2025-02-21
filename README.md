@@ -33,7 +33,7 @@ My name is Anthony Casagrande and I am a Staff Software Engineer currently looki
 ![Makefile](https://img.shields.io/badge/-Makefile-black?style=for-the-badge&logo=make&logoColor=white&color=black)
 
 <hr/>
-https://img.shields.io/badge/-Bash-black
+
 # ✨ Open Source Projects
 
 ## Recipient of the 2022 EdgeX Foundry Innovation Award!
