@@ -18,13 +18,21 @@ https://github.com/user-attachments/assets/3e4b13fb-ba4a-490b-b6f0-dbb220c004b7
 
 <hr/>
 
-## Open Retail Reference Architecture (ORRA)
-### EdgeX Foundry + Edge Video Analytics + Camera Management
+## Edge AI + Camera Management
+Camera Management and AI Inference service to auto discover and connect to nearby ONVIF (IP camera) and USB based cameras. Control PTZ, Video Resolution, etc. via commands, create inference pipelines for the camera video streams and publish inference results to MQTT broker.
+
+https://github.com/user-attachments/assets/9d208b20-05f9-4533-a284-1476e06bdcce
+
+**Architecture**
+
+![image](https://github.com/user-attachments/assets/1125fb25-f985-452e-94f2-497be4765a2f)
+
+
+
+### Open Retail Reference Architecture (ORRA)
 Deployment files for running EdgeX Kamakura with the ONVIF device service, as well as Intel's Edge Video Analytics on the Open Horizon platform.
 
 [GitHub Repo](https://github.com/edgexfoundry-holding/orra/tree/main/demos/OH-EXF-Kamakura)
-
-![image](https://github.com/user-attachments/assets/1125fb25-f985-452e-94f2-497be4765a2f)
 
 
 <hr/>
