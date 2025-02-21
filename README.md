@@ -19,13 +19,13 @@ https://github.com/user-attachments/assets/3e4b13fb-ba4a-490b-b6f0-dbb220c004b7
 <hr/>
 
 ## Edge AI + Camera Management
+
+
 Camera Management and AI Inference service to auto discover and connect to nearby ONVIF (IP camera) and USB based cameras. Control PTZ, Video Resolution, etc. via commands, create inference pipelines for the camera video streams and publish inference results to MQTT broker.
 
 https://github.com/user-attachments/assets/9d208b20-05f9-4533-a284-1476e06bdcce
 
-**Architecture**
-
-![image](https://github.com/user-attachments/assets/1125fb25-f985-452e-94f2-497be4765a2f)
+![Architecture](https://github.com/user-attachments/assets/1125fb25-f985-452e-94f2-497be4765a2f)
 
 
 
@@ -42,7 +42,9 @@ Computer Vision to Secure Your Surroundings with AI/ML Solution Built Using Open
 
 [YouTube Customer Demo](https://youtu.be/kVcb_R-MdHo?feature=shared) | [Open Source Summit 2022 Presentation](https://ossna2022.sched.com/event/11Nhu/computer-vision-to-secure-your-surroundings-with-aiml-solution-built-using-open-source-tools-at-the-edge-samantha-coyle-neethu-elizabeth-simon-intel-corporation)
 
-![image](https://github.com/user-attachments/assets/717cdb0e-a386-4a16-bac8-21525d300fa0)
+https://github.com/user-attachments/assets/22724c8a-79b0-47c7-a7cb-9c6753cc9960
+
+![Architecture](https://github.com/user-attachments/assets/717cdb0e-a386-4a16-bac8-21525d300fa0)
 
 
 ## EdgeX Foundry
@@ -68,6 +70,11 @@ Computer Vision to Secure Your Surroundings with AI/ML Solution Built Using Open
   The Intel® RSP Inventory Suite is open source reference IoT software that enables you to gather data from multiple sensors and combine with your RFID data via edge analytics.
 
 ![image](https://github.com/user-attachments/assets/12349165-eef1-4ce4-8c74-a7e89e1ed773)
+
+
+### Intel Retail Sensor Platform (RFID)
+#### Videos
+- _**▶️ YouTube**_ [Intel and Levi Strauss & Co.: How to Find the Perfect Pair of Jeans](https://www.youtube.com/watch?v=Z-23_6VNB1I)
 
   
 - [Intel® Inventory Suite inventory-service](https://github.com/intel/rsp-sw-toolkit-im-suite-inventory-service)
