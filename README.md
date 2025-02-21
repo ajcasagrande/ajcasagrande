@@ -140,6 +140,15 @@ Here are a few of my collegues presenting on our team's projects
 <a href="https://youtu.be/o_B4HFfeKEs?feature=shared"><img src="https://github.com/user-attachments/assets/6173017c-9dec-4cfc-b647-6ffc0a59cb43" style="width: 75%"/></a>
 
 ## ✨ Nerd Stuff 🤓
+
+### Birdman's Shooter (Sony PSP Homebrew Game)
+Homebrew game I developed as a freshman in college using C for the Sony PlayStation Portable (PSP). Loosly based on the game Galaga.
+
+[GitHub Repo](https://github.com/ajcasagrande/birdmans-shooter-psp)
+
+https://github.com/user-attachments/assets/85760ef4-d6fb-4348-b15c-23293d85cb72
+
+
 ### [Spektrum Bootloader and SG3 Decoder](https://github.com/ajcasagrande/spektrum-bootloader-and-sg3-decoder)
 High Level Analyzer for Saleae Logic 2.x software. Decodes Spektrum Programmer and iX12/14/20 SG3 UART communications of compatible Surface and Air Transmitter and Receivers.
 
