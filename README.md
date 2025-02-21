@@ -64,7 +64,9 @@ https://github.com/user-attachments/assets/9d208b20-05f9-4533-a284-1476e06bdcce
 ### Open Retail Reference Architecture (ORRA)
 Deployment files for running EdgeX Kamakura with the ONVIF device service, as well as Intel's Edge Video Analytics on the Open Horizon platform.
 
-[GitHub Repo](https://github.com/edgexfoundry-holding/orra/tree/main/demos/OH-EXF-Kamakura)
+[GitHub Repo](https://github.com/edgexfoundry-holding/orra/tree/main/demos/OH-EXF-Kamakura) | [One Summit 2022 (YouTube)](https://youtu.be/ub3p9RyMm3Q?feature=shared)
+
+![image](https://github.com/user-attachments/assets/e7720370-7e47-4282-b9d2-c180e983f83f)
 
 
 <hr/>
@@ -72,7 +74,7 @@ Deployment files for running EdgeX Kamakura with the ONVIF device service, as we
 ## Smart City Situational Awareness - Reference Implementation
 Computer Vision to Secure Your Surroundings with AI/ML Solution Built Using Open Source Tools at the Edge
 
-[YouTube Customer Demo](https://youtu.be/kVcb_R-MdHo?feature=shared) | [Open Source Summit 2022 Presentation](https://ossna2022.sched.com/event/11Nhu/computer-vision-to-secure-your-surroundings-with-aiml-solution-built-using-open-source-tools-at-the-edge-samantha-coyle-neethu-elizabeth-simon-intel-corporation)
+[YouTube Customer Demo](https://youtu.be/kVcb_R-MdHo?feature=shared) | [Open Source Summit 2022 Presentation](https://static.sched.com/hosted_files/ossna2022/ff/OSS_ComputerVision_to_Secure%20Surroundings_at_Edge.pdf)
 
 https://github.com/user-attachments/assets/22724c8a-79b0-47c7-a7cb-9c6753cc9960
 
@@ -104,9 +106,14 @@ https://github.com/user-attachments/assets/22724c8a-79b0-47c7-a7cb-9c6753cc9960
 ![image](https://github.com/user-attachments/assets/12349165-eef1-4ce4-8c74-a7e89e1ed773)
 
 
+https://github.com/user-attachments/assets/fa7cf4fc-e6d0-478e-8707-7c54de3bff83
+
+
+
 ### Intel Retail Sensor Platform (RFID)
 #### Videos
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+
+
 
 [Intel and Levi Strauss & Co.: How to Find the Perfect Pair of Jeans](https://www.youtube.com/watch?v=Z-23_6VNB1I)
 
