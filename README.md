@@ -2,6 +2,37 @@
 
 My name is Anthony Casagrande and I am a Staff Software Engineer currently looking for opportunities to further the fields of AI/ML and Computer Vision, IoT and Edge, and Cloud-Native infrastructure.
 
+<!--
+## Skills
+
+![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=ai&logoColor=white)
+![openVINO](https://img.shields.io/badge/openVINO-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-005571?style=for-the-badge&logo=opencv&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+-->
+## Programming Languages
+**Python** | **Go** | **TypeScript** | **C/C++** | **C#** | **JavaScript** | **Java** | **Bash** | **Makefile** | **CMake**
+
+<!--
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+-->
+
 # ✨ Open Source Projects
 
 ## Recipient of the 2022 EdgeX Foundry Innovation Award!
@@ -74,7 +105,9 @@ https://github.com/user-attachments/assets/22724c8a-79b0-47c7-a7cb-9c6753cc9960
 
 ### Intel Retail Sensor Platform (RFID)
 #### Videos
-- _**▶️ YouTube**_ [Intel and Levi Strauss & Co.: How to Find the Perfect Pair of Jeans](https://www.youtube.com/watch?v=Z-23_6VNB1I)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+
+[Intel and Levi Strauss & Co.: How to Find the Perfect Pair of Jeans](https://www.youtube.com/watch?v=Z-23_6VNB1I)
 
   
 - [Intel® Inventory Suite inventory-service](https://github.com/intel/rsp-sw-toolkit-im-suite-inventory-service)
