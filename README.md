@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Anthony Casagrande and I am a Staff Software Engineer currently looking for opportunities to further the fields of AI/ML and Computer Vision, IoT and Edge, and Cloud-Native infrastructure.
+My name is Anthony Casagrande and I am a Senior Software Engineer currently working on AIPerf and Dynamo @NVIDIA.
 
 <!--
 ## Skills
